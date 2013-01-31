@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+  <title>Responsive Horizontal Layout</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+  <meta name="description" content="Responsive Horizontal Layout with jQuery and custom Scrollbars" />
+  <meta name="keywords" content="horizontal, scrolling, panels, layout, template, jquery, responsive, custom scrollbar, html5" />
+  <meta name="author" content="Codrops" />
+  <link rel="shortcut icon" href="../favicon.ico">
+	<link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.custom.css" />
+  <link rel="stylesheet" type="text/css" href="css/testimonials.css" />
+	<script type="text/javascript" src="{{ root_url }}/assets/js/head.min.js"></script>
+	<noscript>
+		<style>
+			@media screen and (max-width: 715px) {
+				.hs-content-scroller{
+					overflow: visible;
+				}
+			}
+		</style>
+	</noscript>
+  </head>
+  <body>
+  	{{content}}
+  </body>
+</html>

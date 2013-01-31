@@ -1,0 +1,658 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"sel",
+				"selNodes"
+			],
+			[
+				"mou",
+				"mousedown"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"clic",
+				"clicked"
+			],
+			[
+				"tree",
+				"tree_issues_list"
+			],
+			[
+				"cla",
+				"css_classes"
+			],
+			[
+				"ass",
+				"assigned_to"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"css",
+				"css_classes"
+			],
+			[
+				"node",
+				"node_depth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "rakefile",
+			"settings":
+			{
+				"buffer_size": 1851,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "work.html",
+			"settings":
+			{
+				"buffer_size": 4730,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 54,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "testimonials.html",
+			"settings":
+			{
+				"buffer_size": 106320,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_layouts/testimonials.html",
+			"settings":
+			{
+				"buffer_size": 1135,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 993,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/testimonials.scss",
+			"settings":
+			{
+				"buffer_size": 5685,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "thx.html",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"mak",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"mar",
+				"Markdown Preview: preview in Browser"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/sttDev/Ruby/jekyll/test/assets/work.scss",
+		"/D/sttDev/Ruby/jekyll/test/assets/main.scss",
+		"/D/sttDev/Ruby/jekyll/test/assets/js/test.js",
+		"/D/sttDev/Ruby/jekyll/test/_layouts/work.html",
+		"/D/sttDev/Ruby/jekyll/test/_layouts/default.html",
+		"/D/sttDev/Ruby/jekyll/test/css/work.css",
+		"/D/sttDev/Ruby/jekyll/test/css/main.css",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp29204/usr/share/redmine/plugins/tree_issues_list/app/views/tree_issues_list/new.html.erb",
+		"/D/sttDev/Ruby/jekyll/test/rakefile",
+		"/D/sttDev/Ruby/jekyll/test/_plugins/less_converter.rb",
+		"/D/sttDev/Ruby/jekyll/test/_plugins/sitemap_generator.rb",
+		"/D/applications portables/PortableApps/Sublime Text 2.0.1/Data/Packages/BeautifyRuby/BeautifyRuby.sublime-settings",
+		"/D/applications portables/PortableApps/Sublime Text 2.0.1/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/sttDev/Ruby/jekyll/test/index.html",
+		"/D/sttDev/Ruby/jekyll/test/blog.html",
+		"/D/sttDev/Ruby/jekyll/test/_site/sitemap.xml",
+		"/D/sttDev/Ruby/jekyll/test/_config.yml",
+		"/D/sttDev/Ruby/jekyll/test/_site/index.html",
+		"/D/sttDev/Ruby/jekyll/test/assets/mains.scss",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp14663/usr/share/redmine/plugins/tree_issues_list/app/controllers/tree_issues_list_controller.rb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/plugins/meeting_issues/app/controllers/meeting_issues_controller.rb",
+		"/D/sttDev/Ruby/jekyll/test/_posts/2012-12-01.Test.md",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp24530/usr/share/redmine/plugins/tree_issues_list/app/views/tree_issues_list/new.html.erb",
+		"/D/applications portables/PortableApps/Sublime Text 2.0.1/Data/Packages/User/Default (Linux).sublime-keymap",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp53134/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/D/redmine_server/app/views/issues/index.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp00853/usr/share/redmine/plugins/tree_issues_list/app/views/tree_issues_list/new.html.erb",
+		"/D/sttDev/Ruby/jekyll/test/_posts/2012-12-01-Test.md",
+		"/D/sttDev/Ruby/jekyll/test/_posts/2013-01-24-testa.markdown",
+		"/D/sttDev/Ruby/jekyll/test/#{path}",
+		"/D/sttDev/Ruby/jekyll/test/test.sublime-project",
+		"/D/sttDev/Ruby/jekyll/test/test.sublime-workspace",
+		"/D/sttDev/Ruby/jekyll/test/_layouts/defautl.html",
+		"/D/sttDev/Ruby/jekyll/test/_config.yml.txt",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/plugins/meeting_issues/app/views/meeting_issues/_form.html.erb",
+		"/C/Users/stephane.t/AppData/Local/Temp/7zE8627AE25/gridpak.css",
+		"/D/applications portables/PortableApps/Sublime Text 2.0.1/Data/Packages/JSLint/JSLint.sublime-settings",
+		"/D/applications portables/PortableApps/Sublime Text 2.0.1/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/public/javascripts/context_menu.js",
+		"/D/redmine_server/app/controllers/projects_controller.rb",
+		"/D/redmine_server/app/views/issues/_list.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp35321/usr/share/redmine/plugins/tree_issues_list/config/routes.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp23291/usr/share/redmine/plugins/tree_issues_list/app/views/tree_issues_list/new.html.erb",
+		"/D/redmine_server/app/helpers/routes_helper.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp37945/usr/share/redmine/app/views/projects/show.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp42998/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/D/Ruby193/lib/ruby/gems/1.9.1/gems/actionpack-3.2.11/lib/action_dispatch/routing/route_set.rb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/app/views/context_menus/time_entries.html.erb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/app/helpers/context_menus_helper.rb",
+		"/D/redmine_server/app/views/context_menus/issues.html.erb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/app/helpers/queries_helper.rb",
+		"/D/redmine_server/app/helpers/issues_helper.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp30210/usr/share/redmine/plugins/tree_issues_list/app/controllers/tree_issues_list_controller.rb",
+		"/D/redmine_server/app/controllers/application_controller.rb",
+		"/D/redmine_server/app/models/issue.rb",
+		"/D/redmine_server/app/controllers/calendars_controller.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp42129/usr/share/redmine/app/controllers/issues_controller.rb",
+		"/D/redmine_server/app/controllers/issues_controller.rb",
+		"/D/sttDev/Ruby/cim/parse_fic_lst.040.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp25857/usr/share/redmine/Gemfile",
+		"/D/sttDev/Ruby/cim/lib/fn_ft.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp52290/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/D/sttDev/Macro office/Project Server/ThisProject.cls",
+		"/D/sttDev/Macro office/Project Server/Liste des livrables.frx",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp19269/usr/share/redmine/plugins/tree_issues_list/app/views/context_menu/context_menu.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp51514/usr/share/redmine/plugins/meeting_issues/config/routes.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/WinSCP/scp25416/issues_controller_patch.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp33416/usr/share/redmine/plugins/tree_issues_list/app/controllers/context_menus_controller.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp48083/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp37366/usr/share/redmine/plugins/tree_issues_list/config/routes.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp38137/usr/share/redmine/plugins/tree_issues_list/config/routes.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp31779/usr/share/redmine/plugins/tree_issues_list/app/controllers/context_menu_controller.rb",
+		"/D/redmine_server/app/helpers/context_menus_helper.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp56962/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp50921/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb.old4",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp13767/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/D/redmine_server/config/locales/fr.yml",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/config/environments/development.rb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/plugins/rapport/app/controllers/rapport_controller.rb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/test/functional/context_menus_controller_test.rb",
+		"/D/sttDev/Ruby/Redmine_CIM/Redmine_20121211/Redmine_20121211/app/views/context_menus/issues.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp19275/usr/share/redmine/config/application.rb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp12581/usr/share/redmine/plugins/tree_issues_list/lib/tree_issues_list/issues_controller_patch.rb",
+		"/D/redmine_server/app/views/issues/_sidebar.html.erb",
+		"/D/applications portables/PortableApps/WinSCPPortable/App/winscp/scp27714/usr/share/redmine/plugins/tree_issues_list/app/views/issues/true_index.html.erb",
+		"/C/Users/stephane.t/Downloads/Sublime Text 2.0.1/bz2.pyd"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"``",
+			"\"}\n",
+			"new_project_issue_path",
+			"project_issue_p",
+			"project_issues_",
+			"project_issues_path",
+			"'\n",
+			"column_content",
+			"/redmine/issues/context_menu?",
+			"context",
+			"subject",
+			"%>\n",
+			"%>",
+			"%>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"src",
+			":\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "rakefile",
+					"settings":
+					{
+						"buffer_size": 1851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "work.html",
+					"settings":
+					{
+						"buffer_size": 4730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								703,
+								703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 54,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_layouts/default.html",
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								903,
+								903
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "testimonials.html",
+					"settings":
+					{
+						"buffer_size": 106320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106269,
+								106269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 16588.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "_layouts/testimonials.html",
+					"settings":
+					{
+						"buffer_size": 1135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								834,
+								812
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "_config.yml",
+					"settings":
+					{
+						"buffer_size": 993,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								993,
+								993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "assets/testimonials.scss",
+					"settings":
+					{
+						"buffer_size": 5685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5685,
+								5685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3539.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "thx.html",
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19,
+								19
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true
+}

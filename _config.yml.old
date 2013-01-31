@@ -1,0 +1,18 @@
+exclude:
+  README.md
+  Rakefile
+  test.sublime-project
+  test.sublime-workspace
+
+#-- used by rakefile
+environments:
+  stage:
+    url: http://stage.example.com
+    remote:
+      connection: user@example.com
+      path: /var/www/
+  production:
+    url: http://production.example.com
+    remote:
+      connection: user@example.com
+      path: /var/www/

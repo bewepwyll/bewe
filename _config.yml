@@ -1,0 +1,57 @@
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /blog/:categories/:year/:month/:day/:title 
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "CNAME"]
+auto: true
+pygments: true
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+title : BeWe
+tagline: false
+author :
+  name : stephane.torchy
+  email : stephane.torchy@bewe.eu
+  github : stephane.torchy
+  twitter : stephane.torchy
+  feedburner : http://feeds.feedburner.com/bewe
+
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt 
+# Most places will/should use BASE_PATH to make the urls
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.com, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project name at the end.
+#
+production_url : http://www.bewe.eu
+
+# Navigation
+navigation:
+- text: Our Work
+  url: /work.html
+- text: Testimonials
+  url: /testimonials.html
+- text: Blog
+  url: /blog.html
+- text: Labs
+  url: /labs.html
+- text: Profile
+  url: /profile.html
+- text: Contact
+  url: /contact.html  
+
+# Social links
+social_links:
+- text: Facebook
+  url: http://facebook.com/bewe/
+- text: Twitter
+  url: http://twitter.com/bewe/
+- text: Flickr
+  url: http://flickr.com/photos/bewe/"
+- text: Disqus
+  url: /
+- text: Scoop.it
+  url: /

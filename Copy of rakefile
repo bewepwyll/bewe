@@ -1,0 +1,55 @@
+require 'rubygems'
+require 'optparse'
+require 'yaml'
+
+desc "create a new post"
+task :np do
+  OptionParser.new.parse!
+  ARGV.shift
+  title = ARGV.join(' ')
+
+  path = "_posts/#{Date.today}-#{title.downcase.gsub(/[^[:alnum:]]+/, '-')}.markdown"
+  
+  if File.exist?(path)
+  	puts "[WARN] File exists - skipping create"
+  else
+    File.open(path, "w") do |file|
+      file.puts YAML.dump({'layout' => 'post', 'published' => false, 'title' => title})
+      file.puts "---"
+    end
+  end
+
+  system('D:\applications portables\PortableApps\Sublime Text 2.0.1\sublime_text.exe',"#{path}")
+
+  exit 1
+end
+
+desc "compile and run the site"
+task :default do
+  pids = [
+    spawn("jekyll"),
+    spawn("scss --watch assets:css")
+  ]
+
+  trap "INT" do
+    Process.kill "INT", *pids
+    exit 1
+  end
+
+  loop do
+    sleep 1
+  end
+end
+
+config_file = '_config.yml'
+config = YAML.load_file(config_file)
+
+env = ENV['env'] || 'stage'
+
+task :deploy do
+  sh "jekyll && rsync -avz --delete #{config['destination']}/ #{config['environments'][env]['remote']['connection']}:#{config['environments'][env]['remote']['path']}"
+end
+
+task :launch do
+  sh "open #{config['environments'][env]['url']}"
+end

@@ -1,0 +1,82 @@
+
+$color1: #464E58;
+$color2: #57B6D5;
+$color3: #262C36;
+$color4: #37758C;
+$color5: #426B79;
+$color6: #D7E3E6;
+$color7: #98916B;
+$color8: #667173;
+
+html,body{
+	height: 100%;
+}
+#header{
+	height: 100%;
+	background-image: url('../img/bg.png');
+	-webkit-box-shadow: 0px 2px 4px 0px rgba(200, 200, 200, 1);
+	box-shadow: 0px 2px 4px 0px rgba(200, 200, 200, 1);
+	.header-inner{
+		position: absolute;
+		height: 600px;
+		margin: -429px 0 0 0;
+		top: 50%;
+		width: 100%;
+	}
+	.header-container{
+		position: relative;
+		margin: 0 auto;
+		width: 800px;
+	}
+	.header-menu-container {
+		text-align: center;
+		padding-top: 258px;
+		position: absolute;
+		z-index: 100;
+		width: 800px;
+		}
+	.header-logo{}
+}
+ul.menu {
+	text-align: center;
+	display: block;
+	li {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		display: inline;
+		padding: 0 12px;		
+	}
+}
+
+inner-container{
+	width: 1280px;
+	margin: 0 auto;
+}
+
+#footer{
+	/* sans cela le pied de page possède un paddind ou border de 1 cm */
+	//border: 1px black solid;
+	background-color: #313e44;
+	//background-image: url('../img/bg.png');
+	border-top: 2px solid #000;	
+	.inner-container{
+		text-align: center;
+	}
+}
+
+
+a:link {
+color: $color5;
+text-decoration: none;
+}
+
+.menu {
+	a:hover {
+	color: #fff;
+	}
+ 	a:visited {
+	color: $color6;
+	text-decoration: none;
+	}
+}
